@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tiendas Fav</string>
+    <string name="description_img">Image Store</string>
+    <string name="description_store_add">Add Store</string>
+    <string name="btn_Save">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_name">Store name</string>
+    <string name="helper_required">Required</string>
+    <string name="helper_text">Required</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_website">URL WebSite</string>
+    <string name="hint_photo_url">Add URL</string>
+    <string name="edit_store_title_add">Add New Store</string>
+    <string name="menu_save">Menu Save</string>
+    <string name="store_saved">Store Saved</string>
+    <string name="arg_id">id</string>
+</resources>

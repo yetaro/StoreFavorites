@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/JLML0/AndroidStudioProjects/StroreFavorites/app/src/main/res/layout/item_store.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/JLML0/AndroidStudioProjects/StroreFavorites/app/src/main/res/menu/menu_save.xml" value="0.25" />
+        <entry key="..\:/Users/molot/AndroidStudioProjects/StroreFavorites/app/src/main/res/drawable/ic_add_business.xml" value="0.1" />
+        <entry key="..\:/Users/molot/AndroidStudioProjects/StroreFavorites/app/src/main/res/drawable/ic_image_not_supported.xml" value="0.1" />
+        <entry key="..\:/Users/molot/AndroidStudioProjects/StroreFavorites/app/src/main/res/drawable/states_cb_favorites.xml" value="0.1" />
+        <entry key="..\:/Users/molot/AndroidStudioProjects/StroreFavorites/app/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="..\:/Users/molot/AndroidStudioProjects/StroreFavorites/app/src/main/res/layout/fragment_edit_store.xml" value="0.1" />
+        <entry key="..\:/Users/molot/AndroidStudioProjects/StroreFavorites/app/src/main/res/layout/item_store.xml" value="0.44964028776978415" />
+        <entry key="..\:/Users/molot/AndroidStudioProjects/StroreFavorites/app/src/main/res/menu/menu_save.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
